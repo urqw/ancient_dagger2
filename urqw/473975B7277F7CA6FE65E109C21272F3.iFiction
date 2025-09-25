@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ifindex version="1.0" xmlns="http://babel.ifarchive.org/protocol/iFiction/">
+	<story>
+		<identification>
+			<ifid>473975B7277F7CA6FE65E109C21272F3</ifid>
+			<format>urqw</format>
+		</identification>
+		<bibliographic>
+			<title>Древний кинжал 2</title>
+			<author>Кащей</author>
+			<language>ru</language>
+			<firstpublished>2001-01-04</firstpublished>
+			<genre>Фэнтези</genre>
+			<group>URQ</group>
+			<description>Продолжение фэнтезийного сюжета о бравом хоббите Фреде. Взяв в свои маленькие мохнатые лапки злополучный древний кинжал и записку, накинув на плечи плащ и собрав ещё не израсходованные в прошлой серии остатки храбрости, наш хоббит сел в лодку и двинулся в Разлог на встречу новым приключениям.<br/>Данный квест написан под впечатлением от прочитанной трилогии Джона Р.Р. Толкина "Властелин колец". Настоятельно рекомендую вам прочитать данное произведение перед началом игры.</description>
+			<series>Древний кинжал</series>
+			<seriesnumber>2</seriesnumber>
+		</bibliographic>
+		<contacts>
+			<url>https://urqw.github.io/UrqW/#ancient_dagger2</url>
+			<authoremail>textquest@nm.ru</authoremail>
+		</contacts>
+		<colophon>
+			<generator>UrqW Game Template</generator>
+			<originated>2025-09-24</originated>
+		</colophon>
+	</story>
+</ifindex>
